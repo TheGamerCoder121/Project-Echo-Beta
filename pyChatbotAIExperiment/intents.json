@@ -115,6 +115,98 @@
                 "Please visit our website to see a list of our products and their prices, or let me know what you're looking for and I can give you pricing information.",
                 "I'd be happy to recommend a product for you. Can you please let me know what you're looking for and your budget?"
             ]
-        }
+        },
+        {
+            "tag": "customer_service",
+            "patterns": [
+                "I have a complaint",
+                "I need to file a complaint",
+                "I am not satisfied with my purchase",
+                "I want to speak to a representative",
+                "I need to speak to customer service",
+                "I need assistance with my account",
+                "I have an issue with my account",
+                "I need help resolving a problem"
+            ],
+            "responces": [
+                "I'm sorry to hear that you have a complaint. Can you please provide more information on the issue?",
+                "We take all complaints seriously. Can you please provide more information on the issue you would like to file?",
+                "I'm sorry to hear that you are not satisfied with your purchase. Can you please provide more information on the issue?",
+                "I'd be happy to connect you with a customer service representative. Can you please provide me with your contact information?",
+                "Our customer service team is here to assist you. Can you please provide me with more information on the issue you are facing?",
+                "I can help you with your account. Can you please provide me with your account information?",
+                "I'm sorry to hear that you are having an issue with your account. Can you please provide me with your account information?",
+                "I'll do my best to help you resolve any problems you are facing. Can you please provide more information on the issue?"
+            ]
+        },
+        {
+            "tag": "customer_support",
+            "patterns": [
+                "How can I contact customer support",
+                "What is the customer support phone number",
+                "How do I get help with my account",
+                "Can you give me customer support email",
+                "I need customer support",
+                "Can you give me customer support hours",
+                "What is the customer support address",
+                "Can you give me customer support website"
+            ],
+            "responces": [
+                "You can contact customer support by phone, email, or through our website. Would you like me to provide you with the specific contact information?",
+                "The customer support phone number is 555-555-5555. Is there anything else I can help you with?",
+                "You can get help with your account by contacting customer support through phone, email or through our website. Can I provide you with the specific contact information?",
+                "The customer support email is support@company.com. Is there anything else I can help you with?",
+                "Our customer support team is here to assist you. Can you please let me know how I can help you?",
+                "Customer support is available from 8am to 8pm EST. Is there anything else I can help you with?",
+                "The customer support address is 1234 Example St. Is there anything else I can help you with?",
+                "The customer support website is www.company.com/support. Is there anything else I can help you with?"
+            ]
+        },
+        {
+            "tag": "feedback",
+            "patterns": [
+            "Can you give me a feedback",
+            "I want to give feedback",
+            "Can you tell me how I did",
+            "Can you give me your opinion",
+            "Can you rate my performance",
+            "How was my performance",
+            "Can you tell me how I can improve",
+            "I want to know how I can do better"
+            ],
+            "responces": [
+            "I'd be happy to give you feedback. Can you please tell me what area you would like me to focus on?",
+            "I appreciate your willingness to give feedback. Can you please tell me what area you would like me to focus on?",
+            "I'd be happy to give you my opinion. Can you please tell me what area you would like me to focus on?",
+            "I'll rate your performance as outstanding. Is there anything specific you would like me to comment on?",
+            "I'm sorry, as a language model AI, I'm not able to rate your performance but I'm happy to help you in any way I can",
+            "I'd be happy to tell you how you can improve. Can you please tell me what area you would like me to focus on?",
+            "I'd be happy to give you suggestions on how to improve. Can you please tell me what area you would like me to focus on?",
+            "I'd be happy to give you advice on how to do better. Can you please tell me what area you would like me to focus on?"
+            ]
+            },
+            {
+            "tag": "suggestions",
+            "patterns": [
+            "Can you suggest something",
+            "Can you give me a suggestion",
+            "I'm looking for suggestions",
+            "Can you recommend something",
+            "What do you suggest",
+            "I want your opinion",
+            "What would you do",
+            "Can you give me advice"
+            ],
+            "responces": [
+            "I'd be happy to give you a suggestion. Can you please give me more information on what you're looking for?",
+            "Sure, can you please give me more information on what you're looking for?",
+            "I'd be happy to give you some suggestions. Can you please give me more information on what you're looking for?",
+            "I'd be happy to recommend something. Can you please give me more information on what you're looking for?",
+            "Based on the information you've provided, I suggest you consider option X. Is there anything else I can help you with?",
+            "I'd be happy to give you my opinion. Can you please give me more information on what you're looking for?",
+            "Based on the information you've provided, I would do X. Is there anything else I can help you with?",
+            "I'd be happy to give you advice. Can you please give me more information on what you're looking for?"
+            ]
+            }
     ]
 }
