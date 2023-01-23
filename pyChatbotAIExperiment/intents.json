@@ -1,0 +1,120 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "Hi",
+                "hey",
+                "good day",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day",
+                "Whats up",
+                "How's it going?"
+            ],
+            "responces": [
+                "Hello!",
+                "Good to see you again!",
+                "Hi there, how can I help?",
+                "What can I do for you?",
+                "Hey there, how can I help?",
+                "Hello, thanks for visiting",
+                "Hi there, how can I help?"
+            ]
+        },
+        {
+            "tag": "farewell",
+            "patterns": [
+                "Goodbye",
+                "See you later",
+                "Thanks, bye",
+                "I'm leaving now",
+                "Catch you later",
+                "Goodbye for now",
+                "I have to go",
+                "I'll be back later",
+                "Talk to you later"
+            ],
+            "responces": [
+                "Goodbye!",
+                "See you later!",
+                "Thanks for visiting, have a great day!",
+                "It was nice talking to you, have a great day!",
+                "Catch you later, take care!",
+                "Goodbye for now, have a great day!",
+                "I'll be here when you come back, take care!",
+                "Talk to you later, have a great day!"
+            ]
+        },
+        {
+            "tag": "help",
+            "patterns": [
+                "Can you help me",
+                "I need help",
+                "Can you assist me",
+                "How do I",
+                "I don't understand",
+                "What do I do",
+                "What is the process for",
+                "I am unsure how to"
+            ],
+            "responces": [
+                "Of course, what do you need help with?",
+                "I'll do my best to assist you. What do you need help with?",
+                "Sure, how can I help you?",
+                "I'd be happy to help. What do you need assistance with?",
+                "I'm here to help. What do you need help understanding?",
+                "I'll try my best to help. What do you need help with?",
+                "I'm here to assist you. What do you need help with?",
+                "I'll do my best to assist you. What do you need help understanding?"
+            ]
+        },
+        {
+            "tag": "about",
+            "patterns": [
+                "What is this",
+                "Can you tell me about this",
+                "What does this do",
+                "What is the purpose of this",
+                "Can you explain this",
+                "I'm not sure what this is",
+                "What am I looking at",
+                "What does this mean"
+            ],
+            "responces": [
+                "This is a chatbot designed to assist you with various tasks. Is there something specific you need help with?",
+                "I can tell you about this chatbot and its capabilities. What would you like to know?",
+                "This chatbot is designed to assist users with various tasks. Is there something specific you would like to know?",
+                "This chatbot is designed to help users with various tasks. Is there something specific you need help with?",
+                "This chatbot is designed to assist users with various tasks. Is there something specific you would like to know?",
+                "This chatbot is designed to help users with various tasks. Is there something specific you need help with?",
+                "This chatbot is designed to assist users with various tasks. Is there something specific you would like to know?",
+                "This chatbot is designed to help users with various tasks. Is there something specific you need help with?"
+            ]
+        },
+        {
+            "tag": "product_inquiry",
+            "patterns": [
+                "What products do you have",
+                "Can you show me your products",
+                "I'm looking for a specific product",
+                "Do you have this product",
+                "What are my options for products",
+                "Can you give me more information about a product",
+                "I'm interested in purchasing a product",
+                "Can you recommend a product for me"
+            ],
+            "responces": [
+                "We have a wide variety of products available. Can you please specify what you're looking for?",
+                "Sure, please visit our website to see a list of our products. Is there a specific product you're interested in?",
+                "Please visit our website to see a list of our products, or let me know what you're looking for and I can check for availability.",
+                "Please provide me with the name or product code and I will check if it's available",
+                "We have a variety of options available. Can you please let me know what you're looking for specifically?",
+                "I'd be happy to give you more information about one of our products. Can you please let me know which product you're interested in?",
+                "Please visit our website to see a list of our products and their prices, or let me know what you're looking for and I can give you pricing information.",
+                "I'd be happy to recommend a product for you. Can you please let me know what you're looking for and your budget?"
+            ]
+        }
+    ]
+}
