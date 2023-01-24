@@ -13,7 +13,7 @@
                 "Whats up",
                 "How's it going?"
             ],
-            "responces": [
+            "responses": [
                 "Hello!",
                 "Good to see you again!",
                 "Hi there, how can I help?",
@@ -36,7 +36,7 @@
                 "I'll be back later",
                 "Talk to you later"
             ],
-            "responces": [
+            "responses": [
                 "Goodbye!",
                 "See you later!",
                 "Thanks for visiting, have a great day!",
@@ -59,7 +59,7 @@
                 "What is the process for",
                 "I am unsure how to"
             ],
-            "responces": [
+            "responses": [
                 "Of course, what do you need help with?",
                 "I'll do my best to assist you. What do you need help with?",
                 "Sure, how can I help you?",
@@ -82,7 +82,7 @@
                 "What am I looking at",
                 "What does this mean"
             ],
-            "responces": [
+            "responses": [
                 "This is a chatbot designed to assist you with various tasks. Is there something specific you need help with?",
                 "I can tell you about this chatbot and its capabilities. What would you like to know?",
                 "This chatbot is designed to assist users with various tasks. Is there something specific you would like to know?",
@@ -105,7 +105,7 @@
                 "I'm interested in purchasing a product",
                 "Can you recommend a product for me"
             ],
-            "responces": [
+            "responses": [
                 "We have a wide variety of products available. Can you please specify what you're looking for?",
                 "Sure, please visit our website to see a list of our products. Is there a specific product you're interested in?",
                 "Please visit our website to see a list of our products, or let me know what you're looking for and I can check for availability.",
@@ -128,7 +128,7 @@
                 "I have an issue with my account",
                 "I need help resolving a problem"
             ],
-            "responces": [
+            "responses": [
                 "I'm sorry to hear that you have a complaint. Can you please provide more information on the issue?",
                 "We take all complaints seriously. Can you please provide more information on the issue you would like to file?",
                 "I'm sorry to hear that you are not satisfied with your purchase. Can you please provide more information on the issue?",
@@ -151,7 +151,7 @@
                 "What is the customer support address",
                 "Can you give me customer support website"
             ],
-            "responces": [
+            "responses": [
                 "You can contact customer support by phone, email, or through our website. Would you like me to provide you with the specific contact information?",
                 "The customer support phone number is 555-555-5555. Is there anything else I can help you with?",
                 "You can get help with your account by contacting customer support through phone, email or through our website. Can I provide you with the specific contact information?",
@@ -174,7 +174,7 @@
             "Can you tell me how I can improve",
             "I want to know how I can do better"
             ],
-            "responces": [
+            "responses": [
             "I'd be happy to give you feedback. Can you please tell me what area you would like me to focus on?",
             "I appreciate your willingness to give feedback. Can you please tell me what area you would like me to focus on?",
             "I'd be happy to give you my opinion. Can you please tell me what area you would like me to focus on?",
@@ -197,7 +197,7 @@
             "What would you do",
             "Can you give me advice"
             ],
-            "responces": [
+            "responses": [
             "I'd be happy to give you a suggestion. Can you please give me more information on what you're looking for?",
             "Sure, can you please give me more information on what you're looking for?",
             "I'd be happy to give you some suggestions. Can you please give me more information on what you're looking for?",
